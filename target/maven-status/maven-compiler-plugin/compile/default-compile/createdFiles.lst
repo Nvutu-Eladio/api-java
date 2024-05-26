@@ -1,0 +1,10 @@
+br\com\nveladio\todoList\utils\Utils.class
+br\com\nveladio\todoList\user\UserModel.class
+br\com\nveladio\todoList\task\ITaskRepository.class
+br\com\nveladio\todoList\user\UserController.class
+br\com\nveladio\todoList\task\TaskModel.class
+br\com\nveladio\todoList\task\TaskController.class
+br\com\nveladio\todoList\errors\ExceptionHandlerController.class
+br\com\nveladio\todoList\filter\FilterTaskAuth.class
+br\com\nveladio\todoList\GerenciadorDeTarefasApplication.class
+br\com\nveladio\todoList\user\IUserRepository.class
